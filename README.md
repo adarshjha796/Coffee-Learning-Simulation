@@ -2,7 +2,7 @@
 
 ## Description
 
-The Coffee-Making 3D Tutorial is an interactive project designed to teach users how to make their favorite coffee beverages through an immersive, step-by-step experience. This project combines the magic of 3D graphics with user-friendly interactions to provide a unique and engaging learning opportunity for coffee enthusiasts, whether you're a beginner or a seasoned barista.
+Coffee Learning Simulation is an interactive project designed to teach users how to make their favorite coffee beverages through an immersive, step-by-step experience. This project combines the magic of 3D graphics with user-friendly interactions to provide a unique and engaging learning opportunity for coffee enthusiasts, whether you're a beginner or a seasoned barista.
 
 ## Key Features
 
